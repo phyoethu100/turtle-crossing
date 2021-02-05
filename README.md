@@ -1,2 +1,1 @@
-# turtle-crossing
-Turtle Crossing Game
+# Turtle Crossing Game
